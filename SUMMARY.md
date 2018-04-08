@@ -1,5 +1,5 @@
 # Summary
 
 * [Pembukaan](README.md)
-* [First Chapter](chapter1.md)
+* [Persiapan](chapter1.md)
 
