@@ -18,7 +18,7 @@ var x = 10;
 
     $nama = '';
     if($nama == null){
-    
+
     }
 ?>
 ```
