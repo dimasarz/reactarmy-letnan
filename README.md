@@ -1,27 +1,4 @@
-# My Awesome Book
+# Indonesia React Army - Letnan \(Beginner\)
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-
-```javascript
-var x = 10;
-if(x == 10){
-    console.log('hello');
-}
-```
-
-```js
-var x = 10;
-```
-
-```php
-<?php
-
-    $nama = '';
-    if($nama == null){
-
-    }
-?>
-```
-
-
+Hai, ini adalah modul belajar Indonesia React Army untuk kelas Letnan \(Beginner\). Dalam modul yang dipelajari dalam 2 hari ini, kita akan mengenal bagaimana membuat aplikasi web menggunakan reactjs.
 

@@ -1,7 +1,7 @@
 # Summary
 
 * [Pembukaan](README.md)
-* Hari Pertama
+* [Hari Pertama](hari-pertama.md)
   * [Instalasi](instalasi.md)
-* Hari Kedua
+* [Hari Kedua](hari-kedua.md)
 
