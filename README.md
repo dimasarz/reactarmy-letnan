@@ -11,6 +11,7 @@ Hai, ini adalah modul belajar Indonesia React Army untuk kelas Letnan \(Beginner
 ## Hari Kedua:
 
 1. React Router?
-2. 3. 
-![](/assets/indonesia-react-army.png)
+2. 1. ![](/assets/indonesia-react-army.png)
+
+
 
